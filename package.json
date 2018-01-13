@@ -1,7 +1,7 @@
 {
   "name": "react101",
   "version": "1.0.0",
-  "description": "Basic tutional tool to define the React.js application",
+  "description": "Basic tuition tool to define the React.js application",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=production node index.js",
